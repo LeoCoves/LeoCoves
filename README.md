@@ -15,20 +15,27 @@ Actualmente me encuentro estudiando Desarrollo de Aplicaciones Web y Multiplataf
 [![Web](https://img.shields.io/badge/Web-LeoCoves(Sin_Desarrollar).com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leo-coves-guzman-b68554281/)
 
 ## About Me
-👀 Estoy interesado en tecnologias relacionadas mas con la IA y el machine learning como puede ser Python.
-</br>
-    También usando frameworks como Reflex de Python Puro para desarrollar el frontEnd.
-</br>
-🌱 Continuamente estoy mirando diferentes tecnologias y aprendiendo a desarrollar un cleancode.
-</br>
-  En cuanto tecnologias, .NET con C#, JS, Git es lo que aprendemos en la formacion.
-  </br>
-💞️ Por mi cuenta, estoy interesandome con Python y en frontend con frameworks como React.
-</br>
-    Busco desarrollarme profesionalmente y mejorar mis habilidades tanto comunicativas como de Web Developer.
-    </br>
-😄 En cuanto a BD, se desenvolverme con relacionales como SQL y no relacionales como MONGO DB
 
+Hola👋, me llamo Leo Coves y soy un joven apasionado del desarrollo de aplicaciones web.😊
+</br>
+Me encanta el desarrollo del lado del cliente como del servidor, usando tecnologías como JavaScript y Python. 
+</br>
+Usualmente desarrollando en web pero también interesado por el mundo de datos, modelos relacionales, incluso IA y por supuesto, en seguir formándome como profesional.🌍
+</br>
+En cuanto la formación, realizábamos varios CRUD con JavaScript y .NET(C#) y nos manejábamos con SQL, el cual aplicábamos funciones, transacciones y cursores además de sus Instrucciones.
+</br>
+También tengo experiencia con metodologías ágiles y herramientas de trabajo como GitHub Desktop y Git Bash, lo que me ayuda a gestionar versiones de código de manera eficiente. 
+Para mí, el desarrollo web es más que código: es construir con creatividad y probar con eficiencia.🧠
+</br>
+Por mi cuenta, suelo mirar que frameworks o librerias se hacen interesantes para poder desarrollarlas con efectividad. Actualmente averiguando en que especializarme y interesándome por diferentes tecnologías. 
+</br>
+Lo que me puede diferenciar es que soy joven con grandes habilidades sociales desarrolladas a través de otras experiencias en restauración. Me destaco por mi capacidad para generar conexiones, identificar necesidades y ofrecer soluciones efectivas, siempre con un enfoque resolutivo y adaptable.🤝
+</br>
+Busco desarrollarme profesionalmente y mejorar mis habilidades tanto comunicativas como de Web Developer.
+</br>
+😄 En cuanto a BD, se desenvolverme con relacionales como SQL y no relacionales como MONGO DB
+</br>
+Espero haber aportado mas información sobre mi.💻
 
 <!---
 LeoCoves/LeoCoves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
