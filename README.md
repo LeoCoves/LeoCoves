@@ -10,8 +10,8 @@ Actualmente me encuentro estudiando Desarrollo de Aplicaciones Web y Multiplataf
 </br>
 [![Email](https://img.shields.io/badge/l.covesguzman@gmail.com-email_personal_(Contactame)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:l.covesguzman@gmail.com)
 </br>
-[![MiCV](https://img.shields.io/badge/SIN_ACTUALIZAR-FFDD00?style=for-the-badge&logo=Read.cv&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leo-coves-guzman-b68554281/)
-</br>
+[![MiCV](https://img.shields.io/badge/SIN_ACTUALIZAR-FFDD00?style=for-the-badge&logo=Read.cv&logoColor=white&labelColor=101010)](https://drive.google.com/file/d/1tRNJMR05Zk7TmC13DrwC6nN7RhVCVpP2/view?usp=drivesdk)
+<br>
 [![Web](https://img.shields.io/badge/Web-LeoCoves(Sin_Desarrollar).com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leo-coves-guzman-b68554281/)
 
 ## About Me
